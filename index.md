@@ -4,8 +4,23 @@ Hey! I’m a product manager & builder, music maker/snob, remote work advocate, 
 
 I love digging into the deeply human psychology behind how and why people solve problems, and helping to create more solutions to help people.  
 
-> Get in touch: [Email me](mailto:brandonlucasgreen@gmail.com) | Instagram | Twitter | LinkedIn
+> Get in touch: [Email me](mailto:brandonlucasgreen@gmail.com) | [Instagram](https://instagram.com/brandonlucasgreen) | [Twitter](https://twitter.com/sphmrs) | [LinkedIn](https://linkedin.com/in/brandonlgreen)
 
+### What I'm working on
+🏗️ Product managing @ [Abstract](https://abstract.com)
+🎹 Composing new music @ [Sophomores](https://sophomoresmusic.com)
+🖊️ Writing @ [tone deaf / color blind](https://tonedeafcolorblind.com)
+Previously: [Wayfair](https://wayfair.com), [CustomMade](https://custommade.com), [Audiodrops](http://drops.nyc/), [Sonicbids](https://sonicbids.com)
+
+### Things I can help with
+- Product strategy
+- Product discovery & user research
+- PM mentorship & coaching
+- Remote work culture & process improvement
+- Personal productivity & focus
+Wanna chat? [Let’s book something](https://calendly.com/brandonlucasgreen/30min).
+
+## About this site
 Other pages on this zettelkasten (this demonstrates how to use [link queries](https://neuron.zettel.page/link-query.html)):
 
 [[[z:zettels?tag=other]]]
