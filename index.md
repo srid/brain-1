@@ -7,10 +7,11 @@ I love digging into the deeply human psychology behind how and why people solve 
 > Get in touch: [Email me](mailto:brandonlucasgreen@gmail.com) | [Instagram](https://instagram.com/brandonlucasgreen) | [Twitter](https://twitter.com/sphmrs) | [LinkedIn](https://linkedin.com/in/brandonlgreen)
 
 ### What I'm working on
-🏗️ Product managing @ [Abstract](https://abstract.com)
-🎹 Composing new music @ [Sophomores](https://sophomoresmusic.com)
-🖊️ Writing @ [tone deaf / color blind](https://tonedeafcolorblind.com)
-Previously: [Wayfair](https://wayfair.com), [CustomMade](https://custommade.com), [Audiodrops](http://drops.nyc/), [Sonicbids](https://sonicbids.com)
+- 🏗️ Product managing @ [Abstract](https://abstract.com)
+- 🎹 Composing new music @ [Sophomores](https://sophomoresmusic.com)
+- 🖊️ Writing @ [tone deaf / color blind](https://tonedeafcolorblind.com)
+
+*Previously:* [Wayfair](https://wayfair.com), [CustomMade](https://custommade.com), [Audiodrops](http://drops.nyc/), [Sonicbids](https://sonicbids.com)
 
 ### Things I can help with
 - Product strategy
@@ -18,6 +19,7 @@ Previously: [Wayfair](https://wayfair.com), [CustomMade](https://custommade.com)
 - PM mentorship & coaching
 - Remote work culture & process improvement
 - Personal productivity & focus
+
 Wanna chat? [Let’s book something](https://calendly.com/brandonlucasgreen/30min).
 
 ## About this site
