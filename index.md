@@ -11,7 +11,7 @@ I love digging into the deeply human psychology behind how and why people solve 
 - 🎹 Composing new music @ [Sophomores][6]
 - 🖊️ Writing @ [tone deaf / color blind][7]
 
-*Previously:* [Wayfair][8], [CustomMade][9], [Audiodrops][10], [Sonicbids][11]
+*Previously: [Wayfair][8], [CustomMade][9], [Audiodrops][10], [Sonicbids][11]*
 
 ### Things I can help with
 - Product strategy
@@ -20,7 +20,7 @@ I love digging into the deeply human psychology behind how and why people solve 
 - Remote work culture & process improvement
 - Personal productivity & focus
 
-Wanna chat? [Let’s book something][12].
+**Wanna chat? [Let’s book something][12].**
 
 ### About this site
 ![](static/brandon.jpeg)
