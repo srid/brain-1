@@ -43,7 +43,7 @@ This site is a Zettelkasten, a way for me to think and develop ideas out in the 
 [4]:	https://linkedin.com/in/brandonlgreen
 [5]:	https://abstract.com
 [6]:	https://sophomoresmusic.com
-[7]:	https://tonedeafcolorblind.com
+[7]:	http://tonedeafcolorblind.com
 [8]:	https://wayfair.com
 [9]:	https://custommade.com
 [10]:	http://drops.nyc/
