@@ -28,6 +28,11 @@ I love digging into the deeply human psychology behind how and why people solve 
 
 ![][image-1]
 
+### More about me
+- ⚒️ [[Tools stack]]
+- 👨🏻‍💼 [Resume][13]
+- 🎼 [[Finished works]]
+
 ### About this site
 This site is a Zettelkasten, a way for me to think and develop ideas out in the open. Other pages on this site:
 
@@ -45,5 +50,6 @@ This site is a Zettelkasten, a way for me to think and develop ideas out in the 
 [10]:	http://drops.nyc/
 [11]:	https://sonicbids.com
 [12]:	https://calendly.com/brandonlucasgreen/30min
+[13]:	static/brandongreen_resume.pdf
 
 [image-1]:	static/brandon.jpeg
