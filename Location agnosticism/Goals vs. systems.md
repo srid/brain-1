@@ -1,5 +1,6 @@
 Goals vs. systems
 [Link][1]
+— from Scott Adams’ blog
 
 Related to [[Working out in the open]] — Public practice of writing, for the sake of writing
 
