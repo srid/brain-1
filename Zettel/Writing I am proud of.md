@@ -1,4 +1,4 @@
-# Writing I’m proud of
+# Writing I am proud of
 See more at [tone deaf / color blind][1].
 
 - [Out of nowhere][2]
