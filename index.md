@@ -22,7 +22,7 @@ I love digging into the deeply human psychology behind how and why people solve 
 
 Wanna chat? [Let’s book something][12].
 
-## About this site
+### About this site
 This site is a Zettelkasten, a way for me to think and develop ideas out in the open. Other pages on this site:
 
 [[[z:zettels?tag=other]]]
