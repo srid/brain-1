@@ -35,6 +35,10 @@ This is the stuff I use to do things.
 - **Pixelmator Pro** for occasional photo editing
 
 ### Writing
-- **Ulysses** for long-form writing & idea processing
-- **Neuron Zettelkasten** for capture method
-- **Substack** for publishing written & audio content
+- [Ulysses][1] for long-form writing & idea processing
+- [Neuron Zettelkasten][2] for capturing & organizing ideas
+- [Substack][3] for publishing written & audio content
+
+[1]:	https://ulysses.app
+[2]:	http://neuron.zettel.page
+[3]:	https://substack.com
