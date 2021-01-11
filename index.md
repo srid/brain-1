@@ -6,8 +6,6 @@ I love digging into the deeply human psychology behind how and why people solve 
 
 > Get in touch: [Email me][1] | [Instagram][2] | [Twitter][3] | [LinkedIn][4]
 
-![](/static/brandon.jpeg)
-
 ### What I'm working on
 - 🏗️ Product managing @ [Abstract][5]
 - 🎹 Composing new music @ [Sophomores][6]
@@ -23,6 +21,8 @@ I love digging into the deeply human psychology behind how and why people solve 
 - Personal productivity & focus
 
 Wanna chat? [Let’s book something][12].
+
+![](static/brandon.jpeg)
 
 ## About this site
 This site is a Zettelkasten, a way for me to think and develop ideas out in the open. Other pages on this site:
