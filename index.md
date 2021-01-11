@@ -1,5 +1,6 @@
 # brandon lucas green
 
+\<img align="right" width=“450” height=“300” src="static/brandon.jpeg"\> 
 Hey! I’m a product manager & builder, music maker/snob, remote work advocate, writer, husband and DIY enthusiast. I live and work in central Massachusetts with my wife and dog.
 
 I love digging into the deeply human psychology behind how and why people solve problems, and helping to create more solutions to help people.  
@@ -26,11 +27,9 @@ I love digging into the deeply human psychology behind how and why people solve 
 
 **Wanna chat? [Let’s book something][12].**
 
-![][image-1]
-
 ### More about me
-- ⚒️ [[Tools stack]]
 - 👨🏻‍💼 [Resume][13]
+- ⚒️ [[Tools stack]]
 - 🎼 [[Finished works]]
 
 ### About this site
@@ -51,5 +50,3 @@ This site is a Zettelkasten, a way for me to think and develop ideas out in the 
 [11]:	https://sonicbids.com
 [12]:	https://calendly.com/brandonlucasgreen/30min
 [13]:	static/brandongreen_resume.pdf
-
-[image-1]:	static/brandon.jpeg

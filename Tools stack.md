@@ -2,7 +2,7 @@
 This is the stuff I use to do things.
 
 ### Everyday
-- **iPhone 12 Pro **
+- **iPhone 12 Pro**
 - **iPad Pro 11"**
 - **Apple AirPods (1st gen)**
 - **Apple Calendar** & **Reminders** for tasks & day-planning
