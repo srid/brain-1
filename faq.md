@@ -16,4 +16,12 @@ Can I use my own domain name?
 How can private repositories be published?
 : You will need a GitHub paid plan to publish private repositories. Public repositories on the other hand can be published in the GitHub free plan. [Cerveau](https://www.cerveau.app/)'s Premium Plan, when it is ready, will be able to publish public and private repositories.
 
-[cname]: https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-add-cname-file-cname
+[1]:	https://github.com/features/actions
+[2]:	https://github.com/srid/neuron-template/blob/master/.github/workflows/publish.yaml
+[3]:	https://neuron.zettel.page/
+[4]:	https://github.com/srid/neuron
+[5]:	https://github.com/peaceiris/actions-gh-pages
+[6]:	https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-add-cname-file-cname
+[7]:	https://www.cerveau.app/
+
+#is_material
