@@ -15,6 +15,7 @@ I love digging into the deeply human psychology behind how and why people solve 
 
 ### Top of mind
 - [[Simplifying capture of ideas]]
+- [[Location agnosticism]]
 
 ### Things I can help with
 - Product strategy
