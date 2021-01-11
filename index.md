@@ -1,6 +1,6 @@
 # brandon lucas green
 
-`<img align="right" width=“450” height=“300” src="static/brandon.jpeg"> `
+\<img align="right" width=“450” height=“300” src="static/brandon.jpeg"\>
 
 Hey! I’m a product manager & builder, music maker/snob, remote work advocate, writer, husband and DIY enthusiast. I live and work in central Massachusetts with my wife and dog.
 
