@@ -6,6 +6,8 @@ I love digging into the deeply human psychology behind how and why people solve 
 
 > Get in touch: [Email me](mailto:brandonlucasgreen@gmail.com) | [Instagram](https://instagram.com/brandonlucasgreen) | [Twitter](https://twitter.com/sphmrs) | [LinkedIn](https://linkedin.com/in/brandonlgreen)
 
+![](/static/brandon.jpeg)
+
 ### What I'm working on
 - 🏗️ Product managing @ [Abstract](https://abstract.com)
 - 🎹 Composing new music @ [Sophomores](https://sophomoresmusic.com)
