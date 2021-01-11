@@ -13,6 +13,12 @@ I love digging into the deeply human psychology behind how and why people solve 
 
 *Previously: [Wayfair][8], [CustomMade][9], [Audiodrops][10], [Sonicbids][11]*
 
+### Top of mind
+[[Simplifying capture of ideas]]
+[[Location agnosticism]]
+[[Finding a better problem to solve]]
+[[American fragility]]
+
 ### Things I can help with
 - Product strategy
 - Product discovery & user research
@@ -22,10 +28,9 @@ I love digging into the deeply human psychology behind how and why people solve 
 
 **Wanna chat? [Let’s book something][12].**
 
-### About this site
-![](static/brandon.jpeg)
+![][image-1]
 
-## About this site
+### About this site
 This site is a Zettelkasten, a way for me to think and develop ideas out in the open. Other pages on this site:
 
 [[[z:zettels?tag=other]]]
@@ -42,3 +47,5 @@ This site is a Zettelkasten, a way for me to think and develop ideas out in the 
 [10]:	http://drops.nyc/
 [11]:	https://sonicbids.com
 [12]:	https://calendly.com/brandonlucasgreen/30min
+
+[image-1]:	static/brandon.jpeg
