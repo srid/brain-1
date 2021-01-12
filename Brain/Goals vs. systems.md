@@ -19,4 +19,4 @@ Does anything else need a system?
 
 
 [1]:	https://www.scottadamssays.com/2013/11/18/goals-vs-systems/
-[2]:https://apple.com/apple-fitness-plus
+[2]:https://apple.com/apple-fitness-plus/
