@@ -12,10 +12,6 @@ I love digging into the deeply human psychology behind how and why people solve 
 
 *Previously: [Wayfair][8], [CustomMade][9], [Audiodrops][10], [Sonicbids][11]*
 
-### Top of mind
-- [[Simplifying capture of ideas]]
-- [[Location agnosticism]]
-
 ### Things I can help with
 - Product strategy
 - Product discovery & user research
