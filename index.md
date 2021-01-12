@@ -25,13 +25,14 @@ I love digging into the deeply human psychology behind how and why people solve 
 - 👨🏻‍💼 **[Resume][13]**
 - ⚒️ [[Tools stack]]
 - 🎼 [[Finished works]]
+- ✍🏻 [[Writing I am proud of]]
 
 ![][image-1]
 
 ### About this site
-This site is a Zettelkasten, a way for me to think and develop ideas out in the open. Other pages on this site:
+This site is a Zettelkasten, a way for me to think and develop ideas out in the open. Below is an index of recent random thoughts organized and linked as I evolve them.
 
-[[[z:zettels?tag=other]]]
+[[z:zettels?tag=**&limit=10&timeline]]
 
 [1]:	mailto:brandonlucasgreen@gmail.com
 [2]:	https://instagram.com/brandonlucasgreen
@@ -39,7 +40,7 @@ This site is a Zettelkasten, a way for me to think and develop ideas out in the 
 [4]:	https://linkedin.com/in/brandonlgreen
 [5]:	https://abstract.com
 [6]:	https://sophomoresmusic.com
-[7]:	https://tonedeafcolorblind.com
+[7]:	http://tonedeafcolorblind.com
 [8]:	https://wayfair.com
 [9]:	https://custommade.com
 [10]:	http://drops.nyc/
