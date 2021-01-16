@@ -1,7 +1,7 @@
 # Simplifying capture of ideas
 I have for too long relied on my memory for things. I am both getting older _and_ my responsibilities are growing, so I need to deal with this in a better way.
 
-Rather than setting a goal to capture notes every day, I’m going to build a system so it’s unavoidable. I’ve never found goals to really work for me — I easily defer or water down said goals to the point where achieving them feels unsatisfying, if I even achieve anything at all. Systems, on the other hand, seem to work well for me. The blogpost [[Goals vs. systems]] seemed to capture why well.
+Rather than setting a goal to capture notes every day, I’m going to build a system so it’s unavoidable. I’ve never found goals to really work for me — I easily defer or water down said goals to the point where achieving them feels unsatisfying, if I even achieve anything at all. Systems, on the other hand, seem to work well for me. The blogpost [[Goals vs. systems]] by seemed to capture why well.
 
 Some goals and requirements:
 - Must be possible across all platforms: macOS, iOS, iPadOS, watchOS if possible

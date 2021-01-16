@@ -1,0 +1,1 @@
+There’s this interesting 8chan thread about the possibilities of connecting separate instances of BrainWeave via a shared network.
