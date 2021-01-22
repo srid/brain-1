@@ -3,7 +3,7 @@ Hey! I’m a product manager & builder, music maker/snob, remote work advocate, 
 
 I love digging into the deeply human psychology behind how and why people solve problems, and helping to create more solutions to help people.  
 
-> Get in touch: [Email][1] | [Instagram][2] | [Twitter][3] | [LinkedIn][4]
+> Get in touch: [Email][1] | [Instagram][2] | [Twitter][3] | [LinkedIn][4] | [Buy me a coffee][14]
 
 ### What I'm working on
 - 🏗️ Product managing @ **[Abstract][5]**
@@ -19,7 +19,7 @@ I love digging into the deeply human psychology behind how and why people solve 
 - Remote work culture & process improvement
 - Personal productivity & focus
 
-**Wanna chat? [Let’s book something][12].**
+Wanna chat? **[Let’s book something][12].**
 
 ### More about me
 - 👨🏻‍💼 **[Resume][13]**
@@ -47,5 +47,6 @@ This site is a Zettelkasten, a way for me to think and develop ideas out in the 
 [11]:	https://sonicbids.com
 [12]:	https://calendly.com/brandonlucasgreen/30min
 [13]:	static/brandongreen_resume.pdf
+[14]: https://www.buymeacoffee.com/brandonlucasg
 
 [image-1]:	static/brandon.jpeg
