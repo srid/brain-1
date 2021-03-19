@@ -3,6 +3,5 @@
 , siteBaseUrl = Some "https://brandonlucasgreen.github.io/brain"
 , theme = "black"
 }
-{
-, plugins =  [ “neuronignore”, “links”, “uptree”, “feed”, “dirtree” ]
+{ plugins =  [ “neuronignore”, “links”, “uptree”, “feed”, “tags”, “dirtree” ]
 }
