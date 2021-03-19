@@ -32,7 +32,7 @@ Wanna chat? **[Let’s book something][12].**
 ### About this site
 This site is a Zettelkasten, a way for me to think and develop ideas out in the open. Below is an index of recent random thoughts organized and linked as I evolve them.
 
-[[z:zettels?tag=**&limit=10&timeline]]
+[[z:zettels?tag=**]]
 
 [1]:	mailto:brandonlucasgreen@gmail.com
 [2]:	https://instagram.com/brandonlucasgreen
