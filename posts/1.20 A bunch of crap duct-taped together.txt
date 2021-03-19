@@ -1,0 +1,45 @@
+# A bunch of crap duct-taped together
+## On the partially smart home, and other dependencies in my life
+
+It’s Martin Luther King Jr. Day, and I have four unused Philips Hue bulbs and I don't know what to do with them. I bought them for a previous apartment, in which I really wanted to play with Apple's HomeKit protocol as a means to automatically dim the lights when it's bed time. 
+
+My new house warranted different lights to achieve the same result, and these became redundant. I wanted to use these — the basic white bulbs — for the ceiling fan in our living room. However, the previous owners of the house put in a combination fan/light dimmer switch, and when the dimmer and smart bulbs interact with each other, the bulbs flicker annoyingly. I could replace that switch, but to do so the right way and keep smart bulbs in play, I'd need to convert the one combo switch into two separate switches (one for light, one for fan) because there is no HomeKit-compatible combo switch on the market (or any smart switches of this nature that I've been able to find). 
+
+There's no sense using them in the basement. There are already lights down there, and I go down once a week to make sure there are no leaks or ghosts or anything, and then I come right back up.
+
+It's not worth trying to use them in the garage, where the ceiling nearly twenty feet high and I don't own a ladder with which I can reach it.
+
+I can't use them in the office (or rather, the spare bedroom with a desk in it). I don't have the desk space for a table lamp, and if I put them in the ceiling then they'll be on the main light switch and I don't want to deal with HomeKit errors when I accidentally shut the switch off. If I do use them in the ceiling fixture, then I'd need to either have them run on a motion sensor that detects when I'm in the room and train myself to stop using the switch, or replace the switch with a smart one which is more money blown on this stupid pointless really fun experiment.
+
+Should I just buy some floor lamps as an excuse to use the bulbs? This option seems very dumb.
+
+All of these options create more work and don't solve any additional problems without said work. I could argue that this is a fun, mildly inexpensive hobby, but it'd be an incredibly first-world hobby. It would also be one my wife loathes because of how often I'm tinkering with it, and inadvertently breaking things like our security system or the bedside table lamps. 
+
+As mentioned in previous writings of mine, I've tried various means to get the things in my life working for me. Instead, they create more dependencies and problems to solve. The house we bought came with Wifi-enabled garage doors, and I bought a [SimpliSafe](http://simplisafe.com) to secure the house. Neither system is HomeKit-compatible, so I jerry-rigged them into the Home app thanks to [Homebridge](https://homebridge.io), which required me to first invest in and learn how to run a [Raspberry Pi](https://www.raspberrypi.org) because I didn't want to have a server running 24/7 on my Mac, and then once I got the Raspberry Pi set up, I needed to figure out how to set up Homebridge, get an externally-accessible IP address, figure out how to do SSH so [I can run the robot vacuum](https://tonedeafcolorblind.substack.com/p/running-a-dumb-robot-vacuum-with-shortcuts) since I can’t get _that_ reliably running through Homebridge, maybe set up an [optional Plex server](http://plex.tv) now that the Raspberry Pi is actually working, make sure I don’t break Homebridge in the process of setting up Plex, test, test again, test some more, sit down and play with my garage doors.
+
+I think I’ve opened the garage doors twice with my iPhone since setting this up, but when I do, it works great. I do occasionally check the SimpliSafe sensors and set it at night, but a frustrating rate-limit issue on their API causes this to break occasionally and requires me to reset the Homebridge server — which I then built a [Shortcut](https://support.apple.com/guide/shortcuts/welcome/ios) to do in two taps rather than needing to SSH into the aforementioned Raspberry Pi.
+
+*(Takes a breath)*
+
+I want to believe that this crazy set of dependencies into which I’m throwing myself is unique to the new and exciting Internet of Things. But most of my early adventures in homeownership are proving to require a similar network of dependencies, sometimes optional, mostly required because of reasons I’m not always able to challenge. 
+
+Alicia and I wanted to redo the floors in the new house because we had some money left over from our house budget. This was a glorious proposition: we came in way under budget on the purchase and could start turning our moderately-sized house in the sticks into a dream home that would make Pinterest proud. In reality, it’s three months later and the floors are still not completely done, we can’t get them finished until the contractor we hired gets stair parts stained to match the actual flooring, for which he had to sub-contract a different company who effectively gave up on the job, thus requiring us to have to find a second sub-contractor to finish the child task for the parent flooring project which is actually the second phase of an even larger flooring project. All of this because we did not know that flooring manufacturers apparently don’t make stair parts that match their own flooring, despite it likely being a very common use case to install matching stairs and floors. (That seems like bad business. Is that bad business? I don’t even know.)
+
+[The adorable little puppy we just got](https://www.instagram.com/p/B6Rw0qWJFJs/)? Even she came with a bunch of things to remember. This isn’t a surprise: dogs are living things. But it’s also basically an entirely new set of commitments and optional-but-strongly-recommended-by-the-rescue-shelter-and-vet activities that somehow also depend on each other. First, these pills, then wait six days then start giving her three pills. Then, another test and maybe she’ll be ready to start training and play school but only if this is all done before she is five months old; if it takes longer, we have to do a different set of things. Day two of owning a dog felt like I just absorbed an entire team at work, and that team was sort of floundering but didn’t really realize they were floundering because they didn’t know any better. 
+
+It’s weird: being a guy who helps build products, I thrive on figuring out & squashing dependencies. And I’ve gotten pretty great at doing so in the last few years of my career. **It’s incredibly overwhelming, with that in mind, to have introduced so many dependencies into my life all at once with little idea how to tackle them.** These things start to feel like a bunch of crap duct-taped together, despite a ton of prep (and money — let’s be honest) to avoid that feeling.
+
+So I’ve started to treat my dependencies like enemies, such that I keep them real close. I actively look for them, I embrace them when I find them. I question why something seems to come together so easily. Sometimes this creates a small anxiety, but I’ve trained my brain to mostly treat these as learning experiences. 
+
+Here’s an example: I replaced a dumb light switch with a [HomeKit-compatible dimmer switch](https://www.amazon.com/gp/product/B071RFYQFM/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1) for the first time last week. The next morning, we had a weird series of brownouts in the house. I immediately thought I caused it with my hackery, until twenty minutes later when I decided to check the electric company’s website which confirmed a regional outage. Power returned fifteen minutes after that. Sigh of relief: it wasn’t my fault, and now I know that my electricity provider can sometimes screw up the voltage in my house. 
+
+Time to figure out what the hell it’s going to take to put in a backup power generator.
+
+Of course, some of these things are worth the trouble. Here’s what makes them so:
+/Alicia.jpeg
+/Rosie.jpeg
+
+----
+Of course I'm rambling about smart home stuff on an actually important holiday like Martin Luther King Jr. Day. If you read through this whole thing, do yourself a favor and do something nice in the name of universal civil rights, like a [donation to the ACLU](https://action.aclu.org/give/now). Or [subscribe to this](https://tonedeafcolorblind.substack.com/subscribe?utm_source=menu&simple=true&next=https%3A%2F%2Ftonedeafcolorblind.substack.com%2F), because it’s another newsletter to entertain you!
+
+See you next time!
