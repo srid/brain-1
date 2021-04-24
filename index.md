@@ -30,7 +30,6 @@ I love digging into the deeply human psychology behind how and why people solve 
 - 👨🏻‍💼 **[Resume][13]**
 - ⚒️ **[[Tools stack]]**
 - 🎼 **[[Finished works]]**
-- ✍🏻 **[[Writing I am proud of]]**
 
 ![][image-1]
 
