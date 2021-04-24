@@ -1,4 +1,5 @@
 # brandon lucas green
+![][brandon]
 Hey! I’m a product manager & builder, music maker/snob, remote work advocate, writer, husband and DIY enthusiast. I live and work in central Massachusetts with my wife and dog.
 
 I love digging into the deeply human psychology behind how and why people solve problems, and helping to create more solutions to help people.  
@@ -19,7 +20,7 @@ I love digging into the deeply human psychology behind how and why people solve 
 - Remote work culture & process improvement
 - Personal productivity & focus
 
-## Writing I'm proud of
+### Writing I'm proud of
 
 - [Out of nowhere][15]
 - [So, layoffs are weird][16]
@@ -30,8 +31,6 @@ I love digging into the deeply human psychology behind how and why people solve 
 - 👨🏻‍💼 **[Resume][13]**
 - ⚒️ **[[Tools stack]]**
 - 🎼 **[[Finished works]]**
-
-![][image-1]
 
 ### About this site
 This site is a Zettelkasten, a way for me to think and develop ideas out in the open. Below is an index of recent random thoughts organized and linked as I evolve them.
@@ -57,4 +56,4 @@ This site is a Zettelkasten, a way for me to think and develop ideas out in the 
 [17]:	https://tonedeafcolorblind.substack.com/p/on-pop-writing
 [18]:	https://tonedeafcolorblind.substack.com/p/on-princes-the-ballad-of-dorothy-parker
 
-[image-1]:	static/brandon.jpeg
+[brandon]:	static/brandon.jpeg
