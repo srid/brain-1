@@ -1,7 +1,8 @@
-# tone deaf color blind
-## from the brain of brandon lucas green
+# Hey 👋 I'm Brandon.
 ![brandon][image-1]
-Hey! I’m a product manager & builder, music maker/snob, remote work advocate, writer, husband and DIY enthusiast. I live and work in central Massachusetts with my [wife][1] and [dog][2]. I love digging into the deeply human psychology behind how and why people solve problems, and helping to create more solutions to help people.  
+I’m a product manager & builder, music maker/snob, remote work advocate, writer, husband and DIY enthusiast. I live and work in central Massachusetts with my [wife][1] and [dog][2].
+
+I love digging into the deeply human psychology behind how and why people solve problems, and helping to create more solutions to help people.  
 
 > Get in touch: [Email me][3] | [Instagram][4] | [Twitter][5] | [LinkedIn][6] | [Book a call][7]
 
@@ -19,15 +20,22 @@ Hey! I’m a product manager & builder, music maker/snob, remote work advocate, 
 - Remote work culture & process improvement
 - Personal productivity & focus
 
+### Writing I'm proud of
+
+- [Out of nowhere][15]
+- [So, layoffs are weird][16]
+- [On pop writing][17]
+- [On Prince’s "The Ballad of Dorothy Parker"][18]
+
 ### More about me
-- 👨🏻‍💼 **[Resume][15]**
+- 👨🏻‍💼 **[Resume][19]**
 - ⚒️ **[[Tools stack]]**
 - 🎼 **[[Finished works]]**
 
 ### About this site
-This site is a Zettelkasten, a way for me to think and develop ideas out in the open. Below is an index of recent random thoughts organized and linked as I evolve them.
+This site, **tone deaf color blind**, is a Zettelkasten, a way for me to think and develop ideas out in the open. Below is an index of recent random thoughts organized and linked as I evolve them.
 
-[[z:zettels]]
+[[z:zettels?tag=\*\*]]
 
 [1]:	https://aliciagreen.co
 [2]:	https://www.instagram.com/p/CDeAU24JQgU/?igshid=1fvajh00evbb9
@@ -43,6 +51,10 @@ This site is a Zettelkasten, a way for me to think and develop ideas out in the 
 [12]:	https://custommade.com
 [13]:	http://drops.nyc/
 [14]:	https://sonicbids.com
-[15]:	static/brandongreen_resume.pdf
+[15]:	https://tonedeafcolorblind.substack.com/p/out-of-nowhere
+[16]:	https://tonedeafcolorblind.substack.com/p/217-so-layoffs-are-weird
+[17]:	https://tonedeafcolorblind.substack.com/p/on-pop-writing
+[18]:	https://tonedeafcolorblind.substack.com/p/on-princes-the-ballad-of-dorothy-parker
+[19]:	static/brandongreen_resume.pdf
 
 [image-1]:	static/brandon.jpeg
