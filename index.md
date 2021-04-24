@@ -19,6 +19,13 @@ I love digging into the deeply human psychology behind how and why people solve 
 - Remote work culture & process improvement
 - Personal productivity & focus
 
+## Writing I'm proud of
+
+- [Out of nowhere][15]
+- [So, layoffs are weird][16]
+- [On pop writing][17]
+- [On Prince’s "The Ballad of Dorothy Parker"][18]
+
 ### More about me
 - 👨🏻‍💼 **[Resume][13]**
 - ⚒️ **[[Tools stack]]**
@@ -46,5 +53,9 @@ This site is a Zettelkasten, a way for me to think and develop ideas out in the 
 [12]:	https://calendly.com/brandonlucasgreen/30min
 [13]:	static/brandongreen_resume.pdf
 [14]: https://www.buymeacoffee.com/brandonlucasg
+[15]:	https://tonedeafcolorblind.substack.com/p/out-of-nowhere
+[16]:	https://tonedeafcolorblind.substack.com/p/217-so-layoffs-are-weird
+[17]:	https://tonedeafcolorblind.substack.com/p/on-pop-writing
+[18]:	https://tonedeafcolorblind.substack.com/p/on-princes-the-ballad-of-dorothy-parker
 
 [image-1]:	static/brandon.jpeg
