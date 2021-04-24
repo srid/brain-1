@@ -10,7 +10,7 @@ I love digging into the deeply human psychology behind how and why people solve 
 - 🎹 Producing new music @ **[Sophomores][6]**
 - 🖊️ Writing occasionally @ **[tone deaf / color blind][7]**
 
-*Previously:[🛒 Wayfair][8], [💍 CustomMade][9], [🎧 Audiodrops][10], [📢 Sonicbids][11]*
+*Previously: [🛒 Wayfair][8], [💍 CustomMade][9], [🎧 Audiodrops][10], [📢 Sonicbids][11]*
 
 ### Things I can help with
 - Product strategy
