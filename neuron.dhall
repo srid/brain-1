@@ -1,4 +1,4 @@
-{ siteTitle = “brandon lucas green”
+{ siteTitle = “brandonlucasgreen”
 , author = Some “Brandon Lucas Green”
 , siteBaseUrl = Some “https://brandonlucasgreen.com”
 , theme = “black”
