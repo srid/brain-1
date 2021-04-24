@@ -1,9 +1,5 @@
-{ siteTitle = “brandonlucasgreen”
-, author = Some “Brandon Lucas Green”
-, siteBaseUrl = Some “https://brandonlucasgreen.com”
-, theme = “black”
-, mathJaxSupport = True
-, minVersion = “0.5”
-, formats = [“markdown”]
-, plugins = [“neurondhall”, “links”, “tags”, “uptree”, “dirtree”, “feed”]
+{ siteTitle = "brandon lucas green"
+, author = Some "brandon lucas green"
+, siteBaseUrl = Some "https://brandonlucasgreen.github.io/brain"
+, theme = "black"
 }
