@@ -3,7 +3,7 @@ Hey! I’m a product manager & builder, music maker/snob, remote work advocate, 
 
 I love digging into the deeply human psychology behind how and why people solve problems, and helping to create more solutions to help people.  
 
-> Get in touch: [Email][1] | [Instagram][2] | [Twitter][3] | [LinkedIn][4] | [Buy me a coffee][14]
+> Get in touch: [Email me][1] | [Instagram][2] | [Twitter][3] | [LinkedIn][4] | [Book a call][12]
 
 ### What I'm working on
 - 🏗️ Building design collaboration products @ **[Abstract][5]**
@@ -18,8 +18,6 @@ I love digging into the deeply human psychology behind how and why people solve 
 - PM mentorship & coaching
 - Remote work culture & process improvement
 - Personal productivity & focus
-
-Wanna chat? **[Let’s book something][12].**
 
 ### More about me
 - 👨🏻‍💼 **[Resume][13]**
