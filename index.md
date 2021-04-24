@@ -35,7 +35,7 @@ I love digging into the deeply human psychology behind how and why people solve 
 ### About this site
 This site is a Zettelkasten, a way for me to think and develop ideas out in the open. Below is an index of recent random thoughts organized and linked as I evolve them.
 
-[[z:zettels?tag=**]]
+[[z:zettels]]
 
 [1]:	mailto:brandonlucasgreen@gmail.com
 [2]:	https://instagram.com/brandonlucasgreen
