@@ -2,6 +2,8 @@
 ![brandon][image-1]
 Hey! I’m a product manager & builder, music maker/snob, remote work advocate, writer, husband and DIY enthusiast. I live and work in central Massachusetts with my [wife][1] and [dog][2]. I love digging into the deeply human psychology behind how and why people solve problems, and helping to create more solutions to help people.  
 
+This site is a Zettelkasten, a way for me to think and develop ideas out in the open. Below is an index of recent random thoughts organized and linked as I evolve them.
+
 > Get in touch: [Email me][3] | [Instagram][4] | [Twitter][5] | [LinkedIn][6] | [Book a call][7]
 
 ### What I'm working on
@@ -22,9 +24,6 @@ Hey! I’m a product manager & builder, music maker/snob, remote work advocate, 
 - 👨🏻‍💼 **[Resume][15]**
 - ⚒️ **[[Tools stack]]**
 - 🎼 **[[Finished works]]**
-
-### About this site
-This site is a Zettelkasten, a way for me to think and develop ideas out in the open. Below is an index of recent random thoughts organized and linked as I evolve them.
 
 [[z:zettels]]
 

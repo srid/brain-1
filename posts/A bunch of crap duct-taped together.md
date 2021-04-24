@@ -15,10 +15,11 @@ Should I just buy some floor lamps as an excuse to use the bulbs? This option se
 
 All of these options create more work and don't solve any additional problems without said work. I could argue that this is a fun, mildly inexpensive hobby, but it'd be an incredibly first-world hobby. It would also be one my wife loathes because of how often I'm tinkering with it, and inadvertently breaking things like our security system or the bedside table lamps. 
 
-As mentioned in previous writings of mine, I've tried various means to get the things in my life working for me. Instead, they create more dependencies. The security system and garage doors are jerry-rigged into the Home app thanks to [Homebridge](#)(https://homebridge.io), which required me to first invest in and learn how to run a [Raspberry Pi](#)(https://www.raspberrypi.org) because I didn't want to have a server running 24/7 on my Mac, and then 
+As mentioned in previous writings of mine, I've tried various means to get the things in my life working for me. Instead, they create more dependencies. The security system and garage doors are jerry-rigged into the Home app thanks to [Homebridge]()(https://homebridge.io), which required me to first invest in and learn how to run a [Raspberry Pi]()(https://www.raspberrypi.org) because I didn't want to have a server running 24/7 on my Mac, and then 
 
 
 ---- 
-Of course I'm rambling about smart home dependencies on an actually important holiday like Martin Luther King Jr. Day. If you read through this whole thing, do yourself a favor and do something nice in the name of universal civil rights, like a [donation to the ACLU](#)(https://action.aclu.org/give/now).
+Of course I'm rambling about smart home dependencies on an actually important holiday like Martin Luther King Jr. Day. If you read through this whole thing, do yourself a favor and do something nice in the name of universal civil rights, like a [donation to the ACLU]()(https://action.aclu.org/give/now).
 
 See you on another time!
+

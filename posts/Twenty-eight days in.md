@@ -1,0 +1,8 @@
+# Twenty-eight days in
+The last post I wrote on my personal blog was back in September. That was a time when I was about to enter ** peak stress** - planning for my upcoming wedding was ramping up, I was about to enter my first e-commerce peak season as a senior manager at work, and I had just moved into new apartment. I used to be able to write entire pieces on a single train ride to work; now I can walk at my own pace to the office in half the time, at the expense of a dedicating writing session.
+
+New Years Resolutions are stupid, but I had made one to write more.
+
+Twenty-eight days later, I literally don't know what to write given the past week with our new America. Instead, I think about my wife, my colleagues (many of whom are immigrants or on work visas). I think about egomania. I think about yelling and screaming and fighting for the rights of those I care about, plus everyone else who is entitled to those rights. I think about curling up and hiding.
+
+Before the break, I used to write about technology and products and music things. It doesn't seem right to do *just* that. It seems more appropriate to think about how I, a financially stable white man, deal with this. It seems appropriate to try and help amplify the voice of those suffering or overwhelmed by all of this, so these voices overpower that of the irrational and heartless and hypocritical. I'm not sure of all the ways I can do that, but I might as well try something. 
