@@ -6,11 +6,11 @@ I love digging into the deeply human psychology behind how and why people solve 
 > Get in touch: [Email][1] | [Instagram][2] | [Twitter][3] | [LinkedIn][4] | [Buy me a coffee][14]
 
 ### What I'm working on
-- 🏗️ Product managing @ **[Abstract][5]**
-- 🎹 Composing new music @ **[Sophomores][6]**
-- 🖊️ Writing @ **[tone deaf / color blind][7]**
+- 🏗️ Building design collaboration products @ **[Abstract][5]**
+- 🎹 Producing new music @ **[Sophomores][6]**
+- 🖊️ Writing occasionally @ **[tone deaf / color blind][7]**
 
-*Previously: [Wayfair][8], [CustomMade][9], [Audiodrops][10], [Sonicbids][11]*
+*Previously:[🛒 Wayfair][8], [💍 CustomMade][9], [🎧 Audiodrops][10], [📢 Sonicbids][11]*
 
 ### Things I can help with
 - Product strategy
@@ -23,9 +23,9 @@ Wanna chat? **[Let’s book something][12].**
 
 ### More about me
 - 👨🏻‍💼 **[Resume][13]**
-- ⚒️ [[Tools stack]]
-- 🎼 [[Finished works]]
-- ✍🏻 [[Writing I am proud of]]
+- ⚒️ **[[Tools stack]]**
+- 🎼 **[[Finished works]]**
+- ✍🏻 **[[Writing I am proud of]]**
 
 ![][image-1]
 
