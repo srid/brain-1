@@ -5,13 +5,13 @@ This is the stuff I use to do things.
 - **iPhone 12 Pro**
 - **iPad Pro 11"**
 - **Apple AirPods (1st gen)**
-- **Apple Calendar** & **Reminders** for tasks & day-planning
+- **Things** for idea capture, tasks and day planning
 - **Apple Mail** for email
 - **Apple Messages**, **Slack** & **Zoom** for communication
-- **Apple Notes** for jotting things down
+- **Apple Notes** for jotting things down and shared notes with my spouse
 - **Apple Music** for music snobbery
 - **Apple News+ & Reeder** for reading & bookmarking
-- **Overcast** for podcasts
+- **Castro** for podcasts
 - **Safari** for web browsing
 - **iCloud Drive** for storage
 - **Backblaze** for backups
@@ -19,8 +19,8 @@ This is the stuff I use to do things.
 - **Calendly** for scheduling
 
 ### Music production & tinkering
-- **Mac mini M1**
-- **Focusrite Scarlett 2i2**
+- **Apple Mac mini M1**
+- **Focusrite Scarlett 2i2** audio interface
 - **Tascam DR-40X** for field recording
 - **Yamaha P-115** digital piano
 - **Schecter Stiletto Studio** 5-string bass
@@ -37,8 +37,8 @@ This is the stuff I use to do things.
 ### Writing
 - [Ulysses][1] for long-form writing & idea processing
 - [Neuron Zettelkasten][2] for capturing & organizing ideas
-- [Substack][3] for publishing written & audio content
+- [Buttondown][3] for newsletter
 
 [1]:	https://ulysses.app
 [2]:	http://neuron.zettel.page
-[3]:	https://substack.com
+[3]:	https://buttondown.email
